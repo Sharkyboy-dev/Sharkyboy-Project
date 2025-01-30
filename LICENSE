@@ -33,26 +33,10 @@ The SharkyBoy Project is committed to transparency, community collaboration, and
 7. Acknowledgment
 By using or modifying any SharkyBoy open-source code, you agree to abide by the terms outlined in this license.
 📜 License Version: SharkyBoy Community License (SCL) v1.0
-📅 Effective Date: [Insert Date]
+📅 Effective Date: 01/30/2025
 For permissions, partnership inquiries, or contribution guidelines, contact:
 📧 Email: sharkyboycoin@gmail.com
 🌐 Website: https://sharkyboy.com/
 🐦 Twitter: https://x.com/sharkyboycoin
 💬 Telegram: https://t.me/+BPDvArPswBYyN2Ix
-Next Steps: Setting Up GitHub for SharkyBoy
-1. Create a GitHub Repository
-• Name it SharkyBoy-SmartContracts (or similar).
-• Add an MIT License file (for smart contracts only) alongside the SharkyBoy Community License.
-2. Upload Smart Contract Code
-• Add Solana smart contracts for transparency.
-• Include README documentation explaining how to interact with the contracts.
-3. Create a Contribution Guide
-• Outline how developers can submit pull requests, report issues, and suggest features.
-• Assign team members to review contributions.
-4. Promote the GitHub Repository
-• Announce it on Twitter, Telegram, and Discord to attract contributors.
-• Pin the repository link on your official website.
-Final Takeaways
-✅ This hybrid open-source approach keeps SharkyBoy transparent while protecting branding & intellectual property.
-✅ Developers can contribute, but they cannot fork, resell, or misuse assets.
-✅ A GitHub repository with smart contract transparency helps build trust with the Solana ecosystem.
+
