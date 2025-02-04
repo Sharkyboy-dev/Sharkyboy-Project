@@ -1,0 +1,41 @@
+SharkyBoy Open-Source Licensing Agreement
+This SharkyBoy Community License (SCL) governs the use, modification, and distribution of SharkyBoy’s open-source components while protecting the project’s brand, intellectual property, and commercial viability.
+1. Overview
+The SharkyBoy Project is committed to transparency, community collaboration, and innovation in the Web3 space. While certain aspects of SharkyBoy will be open-source, this license ensures that the project’s intellectual property, branding, and commercial integrity are maintained.
+2. Permitted Use
+✅ Open-Source Components (Allowed for public use & modification):
+• Smart Contracts: Token minting, staking, governance contracts, and other blockchain-based utilities deployed on Solana.
+• Public API Documentation: Developers may integrate SharkyBoy’s APIs for analytics, tracking, or external applications.
+• Community Contributions: Developers may propose improvements, submit bug fixes, and create tools that enhance the SharkyBoy ecosystem.
+3. Restricted Use (Prohibited without permission)
+🚫 Branding & Identity Protection:
+• No one may use the SharkyBoy name, logo, NFT characters, or associated branding for commercial projects without explicit written permission from the SharkyBoy team.
+• Unauthorized NFT collections, token forks, or copycat projects using SharkyBoy’s imagery, likeness, or name are strictly prohibited.
+🚫 No Forking of the SharkyBoy Token:
+• You may not copy, modify, or relaunch the SharkyBoy token under a different name, ticker, or network without approval.
+🚫 NFT Artwork & Metadata:
+• All SharkyBoy NFTs, character designs, and metadata are proprietary and cannot be replicated, resold, or altered for third-party commercial use.
+🚫 Resale of Open-Source Code for Profit:
+• You may not repackage or resell SharkyBoy’s smart contracts or any components of the open-source repository as a paid service.
+4. Community Contributions & Modifications
+🔹 Developers may contribute to SharkyBoy’s open-source code via GitHub under the following conditions:
+• All contributions must be reviewed and approved by the SharkyBoy core development team before being merged.
+• Contributions must not introduce security risks, unauthorized forks, or deviations from SharkyBoy’s roadmap.
+• Accepted contributions may be subject to bounty rewards or community recognition.
+5. License Enforcement & Violation Consequences
+❌ Violations of this license may result in:
+• DMCA (Digital Millennium Copyright Act) takedown requests for unauthorized use of SharkyBoy branding or assets.
+• Legal action against fraudulent or misleading token forks.
+• Blacklisting of unauthorized projects from Solana-based partnerships, launchpads, or NFT marketplaces.
+6. Future Decentralization & Governance
+• While the SharkyBoy team currently maintains decision-making authority, we plan to introduce decentralized governance mechanisms over time, allowing NFT and token holders to vote on project updates.
+• Future updates to this license may be subject to community review and proposals.
+7. Acknowledgment
+By using or modifying any SharkyBoy open-source code, you agree to abide by the terms outlined in this license.
+📜 License Version: SharkyBoy Community License (SCL) v1.0
+📅 Effective Date: [Insert Date]
+For permissions, partnership inquiries, or contribution guidelines, contact:
+📧 Email: dev@sharkyboy.com
+🌐 Website: https://sharkyboy.com/
+🐦 Twitter: https://x.com/sharkyboycoin
+💬 Telegram: https://t.me/+BPDvArPswBYyN2Ix
